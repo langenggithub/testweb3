@@ -1,0 +1,17 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://backupns.bd.org.tw/sitemap_index.xml
+Sitemap: https://center.all-meditation.com/sitemap_index.xml
+Sitemap: https://backup.all-meditation.com/sitemap_index.xml
+Sitemap: https://backup.chantingday.com/sitemap_index.xml
+Sitemap: https://backup.bd.org.tw/sitemap_index.xml
+Sitemap: https://backupsx.bd.org.tw/sitemap_index.xml
+Sitemap: https://backupyk.bd.org.tw/sitemap_index.xml
+Sitemap: https://backupfy.bd.org.tw/sitemap_index.xml
+Sitemap: https://backup.relax-day.com/sitemap_index.xml
+Sitemap: https://backup.meditationtrend.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

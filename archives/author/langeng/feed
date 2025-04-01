@@ -12,7 +12,7 @@
 	<atom:link href="https://backupns.bd.org.tw/archives/author/langeng/feed" rel="self" type="application/rss+xml" />
 	<link>https://backupns.bd.org.tw/archives/author/langeng</link>
 	<description>關於金菩提禪師的相關資訊網頁，希望讓更多的人認識金菩提禪師</description>
-	<lastBuildDate>Tue, 01 Apr 2025 07:09:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Apr 2025 08:14:10 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	
 	<item>
-		<title>這是測試文章</title>
+		<title>測試文章</title>
 		<link>https://backupns.bd.org.tw/archives/1907</link>
 		
 		<dc:creator><![CDATA[langeng]]></dc:creator>
@@ -30,18 +30,21 @@
 		<category><![CDATA[金菩提禪師評價研究文章]]></category>
 		<guid isPermaLink="false">https://backupns.bd.org.tw/?p=1907</guid>
 
-					<description><![CDATA[<p>這是測試文章123456</p>
-<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1907">這是測試文章</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
+					<description><![CDATA[<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1907">測試文章</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="720" height="513" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696.jpg" alt="" class="wp-image-1824" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696.jpg 720w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696-480x342.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="720" height="513" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696.jpg" alt="" class="wp-image-1824" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696.jpg 720w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-1696-480x342.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></figure>
 
 
 
 <div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="720" height="487" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-4455.jpg" alt="" class="wp-image-1796 size-full" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-4455.jpg 720w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-4455-480x325.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></figure><div class="wp-block-media-text__content">
-<p>這是測試文章123456</p>
+<p>test posts1234567890</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/03/2025MasterFortuneCalligraphy-1024x1024.png" alt="" class="wp-image-1912" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/03/2025MasterFortuneCalligraphy-980x980.png 980w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/03/2025MasterFortuneCalligraphy-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></figure>
 </div></div>
-<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1907">這是測試文章</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
+<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1907">測試文章</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
 ]]></content:encoded>
 					
 		

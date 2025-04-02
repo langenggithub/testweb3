@@ -12,7 +12,7 @@
 	<atom:link href="https://backupns.bd.org.tw/feed" rel="self" type="application/rss+xml" />
 	<link>https://backupns.bd.org.tw/</link>
 	<description>關於金菩提禪師的相關資訊網頁，希望讓更多的人認識金菩提禪師</description>
-	<lastBuildDate>Wed, 02 Apr 2025 03:05:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Apr 2025 04:16:16 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	
 	<item>
-		<title>8888888this is a test post99999999</title>
+		<title>post999</title>
 		<link>https://backupns.bd.org.tw/archives/1918</link>
 		
 		<dc:creator><![CDATA[langeng]]></dc:creator>
@@ -31,7 +31,7 @@
 		<category><![CDATA[金菩提禪師網路講堂]]></category>
 		<guid isPermaLink="false">https://backupns.bd.org.tw/?p=1918</guid>
 
-					<description><![CDATA[<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1918">8888888this is a test post99999999</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
+					<description><![CDATA[<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1918">post999</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="720" height="513" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-371-1.jpg" alt="" class="wp-image-1756" style="width:621px;height:auto" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-371-1.jpg 720w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2024/04/fb_image_tmp-371-1-480x342.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></figure>
@@ -43,13 +43,21 @@
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p class="has-large-font-size"><strong>test post 888888888</strong></p>
+<p class="has-large-font-size"><strong>post 888</strong></p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="724" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1024x724.jpg" alt="" class="wp-image-1922" style="width:610px;height:auto" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1024x724.jpg 1024w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-300x212.jpg 300w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-768x543.jpg 768w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1536x1087.jpg 1536w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-2048x1449.jpg 2048w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-400x284.jpg 400w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1080x764.jpg 1080w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1280x906.jpg 1280w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-980x693.jpg 980w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-480x340.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1024x724.jpg" alt="" class="wp-image-1922" srcset="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1024x724.jpg 1024w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-300x212.jpg 300w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-768x543.jpg 768w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1536x1087.jpg 1536w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-2048x1449.jpg 2048w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-400x284.jpg 400w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1080x764.jpg 1080w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-1280x906.jpg 1280w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-980x693.jpg 980w, https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/點8號菜單-480x340.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="834" height="1024" src="https://backupns.bd.org.tw/wp-content/uploads/sites/7/2025/04/team-834x1024.png" alt="" class="wp-image-1927"/></figure>
+</figure>
 </blockquote>
-<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1918">8888888this is a test post99999999</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
+<p>這篇文章 <a href="https://backupns.bd.org.tw/archives/1918">post999</a> 最早出現於 <a href="https://backupns.bd.org.tw">推薦金菩提禪師禪語分享 – 金菩提網友提供</a>。</p>
 ]]></content:encoded>
 					
 		
